@@ -1,0 +1,9 @@
+# Ambientes y carpetas generadas por tox y Python
+.tox/
+__pycache__/
+*.egg-info/
+env-*/
+.venv/
+
+# Credenciales
+*.pem
